@@ -1,11 +1,10 @@
 ### Hi there 👋
 
 <!--
-## Hi I'm Gaboso :fox_face:
+## Hi I'm Ahmed :fox_face:
 
-![Gaboso](https://github.com/Gaboso/Gaboso/blob/master/github_cover.png "Gaboso")
 
-:computer: _Software Engenieer at [Fitnezz.io](https://github.com/fitnezzio)_ :desert_island:Living in Floripa :brazil:
+:computer: _Software Engenieer at )_ :desert_island:Living in Floripa :brazil:
 
 ### My Tech Stack
 
@@ -44,8 +43,7 @@
 ![Debian](http://img.shields.io/badge/-Debian-A81D33?style=flat-square&logo=debian&logoColor=ffffff)
 ![Windows](http://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=ffffff)
 
----
-⭐️ From [Gaboso](https://github.com/Gaboso)
+
 -->
 
 <!--
