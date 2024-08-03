@@ -3,11 +3,11 @@
 
 - 🌱 I’m currently learning **SW Testing, Embedded Linux.**
 
-- 👯 I’m looking to collaborate on **Open Source Cryptography Tools**
+- 👯 I’m looking to collaborate on **Open Source Cryptography Tools.**
 
-- 🤝 I’m looking for help with **Graduation Project**
+- 🤝 I’m looking for help with **Graduation Project.**
 
-- 💬 Ask me about **Embedded Development and Testing, Wireless Communications, Cryptography.**
+- 💬 Ask me about **Embedded Development and Testing, Wireless Communications, 5G, LTE, VOLTE, Cryptography.**
 
 - 📫 How to reach me **ahmed.mostafa.officia@gmail.com**
 
