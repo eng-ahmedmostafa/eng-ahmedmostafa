@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, It's AMostafa</h1>
 <h3 align="center">Tech enthusiast hacking the future with embedded systems and AI magic</h3>
 
-- 🌱 I’m currently learning **ISTQB, Embedded Linux Development.**
+- 🌱 I’m currently learning **SW Testing, Embedded Linux.**
 
 - 👯 I’m looking to collaborate on **Open Source Cryptography Tools**
 
