@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, It's AMostafa</h1>
+<h1 align="center">Hi 👋, It's A.Mostafa</h1>
 <h3 align="center">Tech enthusiast hacking the future with embedded systems and AI magic</h3>
 
 - 🌱 I’m currently learning **SW Testing, Embedded Linux.**
