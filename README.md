@@ -5,7 +5,7 @@
 
 - 👯 I’m looking to collaborate on **Open Source Cryptography Tools.**
 
-- 🤝 I’m looking for help with **Graduation Project.**
+- 🤝 I’m looking for Mentorship with **Graduation Project.**
 
 - 💬 Ask me about **Embedded Development and Testing, Wireless Communications, 5G, LTE, VOLTE, Cryptography.**
 
