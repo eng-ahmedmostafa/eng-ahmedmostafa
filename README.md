@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **SW Testing, Embedded Linux.**
 
-- 👯 I’m looking to collaborate on **Open Source Cryptography Tools.**
+- 👯 I’m looking to collaborate on **SW Testing Projects.**
 
 - 🤝 I’m looking for Mentorship with **Graduation Project.**
 
