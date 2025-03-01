@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, It's A.Mostafa</h1>
 <h3 align="center">Tech enthusiast hacking the future with embedded systems and AI magic</h3>
 
-- 🌱 I’m currently learning **SW Testing, Embedded Linux.**
+- 🌱 I’m currently learning **Django Framework.**
 
-- 👯 I’m looking to collaborate on **SW Testing Projects.**
+- 👯 I’m looking to collaborate on **Web Development Projects.**
 
 - 🤝 I’m looking for Mentorship with **Graduation Project.**
 
