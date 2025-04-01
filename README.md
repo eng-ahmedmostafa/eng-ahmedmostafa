@@ -5,9 +5,7 @@
 
 - 👯 I’m looking to collaborate on **Web Development Projects.**
 
-- 🤝 I’m looking for Mentorship with **Graduation Project.**
-
-- 💬 Ask me about **Embedded Development and Testing, Wireless Communications, 5G, LTE, VOLTE, Cryptography.**
+- 💬 Ask me about **Embedded Development and Testing, Wireless Communications, 5G, LTE, VOLTE.**
 
 - 📫 How to reach me **ahmed.mostafa.officia@gmail.com**
 
