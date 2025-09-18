@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, It's A.Mostafa</h1>
 <h3 align="center">Product Owner & Tech Enthusiast — bridging Engineering, AI, and Product Strategy to create Human-centered Digital Solutions.</h3>
 
+---
+
 🌱 Currently growing my expertise in **Agile Product Management**, focusing on product roadmaps, stakeholder collaboration, and delivering user-centered solutions.
 
 👯 Open to collaboration on **Web Development** and **Product Innovation Projects**.  
@@ -11,6 +13,8 @@
 - AI & Data Tools: Python, Pandas, PyTorch
 
 📫 Reach me at: **ahmed.mostafa.officia@gmail.com**  
+
+---
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -35,4 +39,3 @@
 ---
 
 ✨ *“I believe the best products live at the intersection of technology and empathy.”*  
-
