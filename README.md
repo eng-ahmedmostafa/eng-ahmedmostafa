@@ -1,14 +1,14 @@
 <h1 align="center">Hi 👋, It's A.Mostafa</h1>
-<h3 align="center">**Product Owner & Tech Enthusiast** — bridging engineering, AI, and product strategy to create human-centered digital solutions.</h3>
+<h3 align="center">Product Owner & Tech Enthusiast — bridging Engineering, AI, and Product Strategy to create Human-centered Digital Solutions.</h3>
 
-🌱 Currently exploring **Django Framework** and advancing in **Agile Product Leadership**.  
+🌱 Currently growing my expertise in **Agile Product Management**, focusing on product roadmaps, stakeholder collaboration, and delivering user-centered solutions.
 
 👯 Open to collaboration on **Web Development** and **Product Innovation Projects**.  
 
 💬 Ask me about:  
 - Product Management & Agile Practices  
-- Embedded Development & Wireless Communications (5G, LTE, VoLTE)  
-- AI & Data Tools: Python, Pandas, PyTorch, OpenCV  
+- Embedded Development & Wireless Communications  
+- AI & Data Tools: Python, Pandas, PyTorch
 
 📫 Reach me at: **ahmed.mostafa.officia@gmail.com**  
 
@@ -30,7 +30,7 @@
 ---
 
 ## 🛠 Languages & Tools  
-`arduino` • `azure` • `c` • `c++` • `gcp` • `linux` • `matlab` • `opencv` • `pandas` • `python` • `pytorch` • `selenium`  
+`c` • `c++` • `AVR` • `yocto` • `Django` • `GCP` •  `matlab` • `pandas` • `python` • `pytorch`   
 
 ---
 
