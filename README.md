@@ -36,7 +36,3 @@
 
 ## 🛠 Languages & Tools  
 `c` • `c++` • `AVR` • `yocto` • `Django` • `GCP` •  `matlab` • `pandas` • `python` • `pytorch`   
-
-
-
-✨ *“I believe the best products live at the intersection of technology and empathy.”*  
