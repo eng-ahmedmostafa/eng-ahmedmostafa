@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, It's A.Mostafa</h1>
-<h3 align="center">Product Owner
-Bridging Tech and Product Strategy to create Human-centered impactful Solutions.</h3>
+<h3 align="center">Agile Product Owner</h3>
+<h3 align="center">Bridging Tech and Product Strategy to create Human-centered impactful Solutions.</h3>
 
 
 
