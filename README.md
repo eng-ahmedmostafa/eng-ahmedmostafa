@@ -57,3 +57,36 @@
         <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> 
     </a> 
 </p>
+
+
+# Hi 👋, I’m A. Mostafa  
+
+🚀 **Product Owner & Tech Enthusiast** — bridging engineering, AI, and product strategy to create human-centered digital solutions.  
+
+🌱 Currently exploring **Django Framework** and advancing in **Agile Product Leadership**.  
+
+👯 Open to collaboration on **Web Development** and **Product Innovation Projects**.  
+
+💬 Ask me about:  
+- Product Management & Agile Practices  
+- Embedded Development & Wireless Communications (5G, LTE, VoLTE)  
+- AI & Data Tools: Python, Pandas, PyTorch, OpenCV  
+
+📫 Reach me at: **ahmed.mostafa.officia@gmail.com**  
+
+---
+
+## 🏆 Certifications  
+- Scrum Foundation Professional Certificate (SFPC™)  
+- Google Project Management Professional Certificate  
+- HCIA – Cloud Computing  
+
+---
+
+## 🛠 Languages & Tools  
+`arduino` • `azure` • `c` • `c++` • `gcp` • `linux` • `matlab` • `opencv` • `pandas` • `python` • `pytorch` • `selenium`  
+
+---
+
+✨ *“I believe the best products live at the intersection of technology and empathy.”*  
+
