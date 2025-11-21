@@ -11,7 +11,6 @@
 💬 Ask me about:  
 - Product Management & Agile Practices  
 - Embedded Development & Wireless Communications  
-- AI & Data Tools: Python, Pandas, PyTorch
 
 📫 Reach me at: **ahmed.mostafa.officia@gmail.com**  
 
