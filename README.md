@@ -1,18 +1,18 @@
 <h1 align="center">Hi 👋, It's A.Mostafa</h1>
-<h3 align="center">Agile Product Owner</h3>
+<h3 align="center">Product Builder</h3>
 <h3 align="center">Bridging Tech and Product Strategy to create Human-centered impactful Solutions.</h3>
 
 
 
-🌱 Currently growing my expertise in **Agile Product Management**, focusing on product roadmaps, stakeholder collaboration, and delivering user-centered solutions.
+🌱 Currently growing my expertise in **Product Management**, focusing on product roadmaps, stakeholder collaboration, and delivering user-centered solutions.
 
-👯 Open to collaboration on **Web Development** and **Product Innovation Projects**.  
+👯 Open to collaboration on **Web Development** and **Product Management**.  
 
 💬 Ask me about:  
 - Product Management & Agile Practices  
 - Embedded Development & Wireless Communications  
 
-📫 Reach me at: **ahmed.mostafa.officia@gmail.com**  
+📫 Reach me at: **ahmed.mostafa.works@gmail.com**  
 
 
 
