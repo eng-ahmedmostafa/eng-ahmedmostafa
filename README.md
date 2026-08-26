@@ -27,6 +27,7 @@
 
 
 ## 🏆 Certifications  
+- Professional Scrum Product Owner™ (PSPO)  
 - Scrum Foundation Professional Certificate (SFPC™)  
 - Google Project Management Professional Certificate  
 - HCIA – Cloud Computing  
@@ -34,4 +35,4 @@
 
 
 ## 🛠 Languages & Tools  
-`c` • `c++` • `AVR` • `yocto` • `Django` • `GCP` •  `matlab` • `pandas` • `python` • `pytorch`   
+`c` • `c++` • `AVR` • `yocto` • `Django` • `GCP` •  `matlab` • `pandas` • `python` • `pytorch` • `Node.js` •  
